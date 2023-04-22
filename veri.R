@@ -54,10 +54,3 @@ summary(veri)
 
 dev.off()
 
-
-
-
-
-
-
-
